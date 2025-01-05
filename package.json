@@ -61,7 +61,7 @@
     "rollup-plugin-esbuild": "^6.1.1",
     "throttle-debounce": "5.0.0",
     "typescript": "^5.4.5",
-    "vite": "^5.2.11",
+    "vite": "^6.0.3",
     "vitest": "^1.6.0"
   }
 }
